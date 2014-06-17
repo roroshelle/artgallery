@@ -5,7 +5,7 @@
 
 #slideshow{text-align: center;}
 
-#body > .background-images:url("nickro.jpg");
+#body > .background-image: url("images/nickro.jpg");
 	 .background-repeat: no-repeat;
 	 .background-attachment: fixed;
 }
